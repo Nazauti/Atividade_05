@@ -1,0 +1,356 @@
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+	font-family: "Times New Roman", Times, serif;
+}	
+
+label{
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+}
+a:hover {
+  color: Black;
+  background-color: lightgreen;
+}
+
+body{
+	/*background-color: #7377FA;*/
+	background-image: url(Background.png);
+	font-family: "Times New Roman", Times, serif;
+}
+
+table{
+	background-color: white;
+}
+.lk{
+  width: 30px;
+  background-color: #D63E04;
+  border: 0px;
+  border-style: outset;
+  padding: 7px;
+  margin: 0px;
+}
+
+.img1{
+	padding: 0px;
+	width: 40%;
+	border: 10px gray;
+	border-style: outset;
+	display: block;
+	margin: auto;
+}
+
+.img2{
+	position: relative;
+	height: 300px;
+	width: 300px;
+	left: 0px;
+	display: block;
+	margin: auto;
+}
+
+.img3{
+	position: relative;
+	height: 300px;
+	width: 300px;
+	left: 400px;
+}
+
+.h31{
+	position: relative;
+	left: 278px;
+	top: 30px;
+}
+
+.h32{
+	position: relative;
+	left: 785px;
+	top: -10px;
+}
+
+.h33 {
+    position: relative;
+    top: -400px;
+    left: 300px;
+}
+
+.h34 {
+    position: relative;
+    top: -440px;
+    left: 640px;
+}
+
+.h35 {
+    position: relative;
+    top: -480px;
+    left: 900px;
+}
+h1{
+	font-style: italic;
+	color: white;
+}
+
+h2{
+	color: white;
+}
+
+h3{
+	color: white;
+}
+
+.p1{
+	width: 1310px;
+	height: 120px;
+	border: 4px gray;
+	border-style: outset;
+	background-color: white;
+	text-align: justify;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p2{
+	width: 1100px;
+	height: 140px;
+	border: 4px gray;
+	border-style: outset;
+	background-color: white;
+	text-align: justify;
+	position: relative;
+	left: 90px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p3{
+	position: relative;
+	top: -150px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p4 {
+    position: relative;
+    top: 0px;
+    left: 360px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p5 {
+    position: relative;
+    top: 0px;
+    left: 320px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p6 {
+    position: relative;
+    top: 0px;
+    left: 340px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p7 {
+    position: relative;
+    top: 0px;
+    left: 330px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p8 {
+    position: relative;
+    top: 0px;
+    left: 330px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p9 {
+    position: relative;
+    top: -170px;
+    left: 630px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p10 {
+    position: relative;
+    top: -170px;
+    left: 650px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p11 {
+    position: relative;
+    top: -170px;
+    left: 643px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p12 {
+    position: relative;
+    top: -170px;
+    left: 645px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p13 {
+    position: relative;
+    top: -170px;
+    left: 648px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.p14 {
+    position: relative;
+    top: -340px;
+    left: 930px;
+	font-family: "Times New Roman", Times, serif;
+}
+.tb1{
+	position: relative;
+	left: 220px;
+	top: -30px;
+}
+
+.tb2{
+	position: relative;
+	left: 630px;
+	top: -172px;
+}
+
+.tb3{
+	text-align: center;
+	position: relative;
+	left: 430px;
+	top: 0px;
+	width: 35%
+}
+.input1{
+	position: relative;
+	left: 30px;
+	width: 300px;
+}
+
+.input2{
+	position: relative;
+	left: 26px;
+	width: 300px;
+}
+
+.input3{
+	position: relative;
+	left: 15px;
+	width: 300px;
+}
+
+.input4{
+	position: relative;
+	left: 10px;
+	width: 300px;
+}
+
+.input5{
+	position: relative;
+	left: 6px;
+	width: 300px;
+}
+
+.input6{
+	position: relative;
+	left: 8px;
+	width: 300px;
+}
+
+.input7{
+	position: relative;
+	left: 22px;
+	width: 382px;
+}
+
+.input8{
+	position: relative;
+	left: 18px;
+	width: 382px;
+}
+
+.input9{
+	position: relative;
+	left: 5px;
+	width: 382px;
+}
+
+.input10{
+	position: relative;
+	left: 8px;
+	width: 382px;
+}
+.txta1{
+	position: relative;
+	left: 0px;
+	width: 452px;
+	height: 150px;
+	text-align: justify;
+	margin: 0px;
+	padding: 0px;
+}
+
+.slc1{
+	position: relative;
+	left: 26px;
+}
+
+.button{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#btn-enviar{
+	position: relative;
+	width: 80px;
+	height: 30px;
+	left: 300px;
+	top: 30px;
+}
+
+#btn-voltar{
+	position: relative;
+	width: 80px;
+	height: 30px;
+	left: 1214px;
+	top: 240px;
+}
+
+#btn-enviar2{
+	position: relative;
+	width: 80px;
+	height: 30px;
+	left: 370px;
+	top: 10px;
+}
+
+#btn-voltar2{
+	position: relative;
+	width: 80px;
+	height: 30px;
+	left: 1214px;
+	top: 114px;
+}
+
+#btn-enviar3{
+	position: relative;
+	width: 80px;
+	height: 30px;
+	left: 370px;
+	top: 25px;
+}
+
+#btn-voltar3{
+	position: relative;
+	width: 80px;
+	height: 30px;
+	left: 1214px;
+	top: 91px;
